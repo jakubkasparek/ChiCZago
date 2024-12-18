@@ -4,7 +4,7 @@ ChiCZago is a revival and extension of the classic Apple Chicago font from the o
 
 ## Preview
 
-![ChiCZago Preview](ChiCZago.png))
+![ChiCZago Preview](ChiCZago.png)
 
 ## About the Project
 
