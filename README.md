@@ -12,7 +12,7 @@ This is a **student project**, created as a passion project for exploring typogr
 
 ### Key Features
 - Inspired by the original **Apple Chicago** font.
-- Added support for Latin accents (e.g., diacritics for Central European languages).
+- Added support for Latin accents (e.g., diacritics for Central European languages 🇨🇿 🇸🇰).
 - Designed for non-commercial use only due to potential licensing restrictions.
 
 ## Disclaimer
